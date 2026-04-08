@@ -17,7 +17,7 @@
 ```yaml
 name: Sanket Prabhune
 location: Pune, Maharashtra, India
-education: B.E. Computer Science / Information Technology
+education: BBA International Bussiness
 interests: [Data Analytics, Cloud Engineering, Business Intelligence, Automation]
 motto: "Turning raw data into business decisions"
 ```
